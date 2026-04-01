@@ -16,9 +16,9 @@ git clone [[https://github.com/morganeallemann/Snake_Python.git](https://github.
 cd Snake_Python
 python3 snake.py
 ```
-## Controls
+## Controls
 Arrow keys: Move the snake (Up, Down, Left, Right)
 Q / Esc: Quit the game
 
-## Project Structure
+## Project Strcture
 snake.py: Entry point and main game loop.
